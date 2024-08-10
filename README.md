@@ -11,7 +11,7 @@
 - ⚡ Fun fact: worked in sleep cience for a lifetime 😄
  <div>
    <a href="https://github.com/joana-belchior">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joana-belchior&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joana-belchior&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joana-belchior&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
