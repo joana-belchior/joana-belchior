@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## Welcom to my profile 😁 Joana Belchior
+## Welcome to my profile 😁 Joana Belchior
 
 
 - 🔭 I’m currently working on Project Management
@@ -23,7 +23,7 @@
  
 <br>
  
-### To contact me, :
+### To contact me:
  
 <div> 
   
